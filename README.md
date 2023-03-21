@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caduviegas" alt="caduviegas" /></a> </p>
 
-- 🔭 I’m currently working on [EvernoteReplica](https://github.com/caduviegas/EvernoteReplica)
+- 🔭 I’m currently working on [AgendaEventos](https://github.com/caduviegas/AgendaEventos)
 
 - 🌱 I’m currently learning **Modern Android Development Skills and Swift**
 
