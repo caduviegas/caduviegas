@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Modern Android Development Skills and Swift**
 
-- 📫 How to reach me **engenedu@hotmail.com**
+- 📫 How to reach me **engenedu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
